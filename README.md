@@ -24,6 +24,9 @@
 
 ## Активность
 
-![Snake Animation](https://raw.githubusercontent.com/PDTPLR/PDTPLR/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) ![Snake Animation](https://raw.githubusercontent.com/PDTPLR/PDTPLR/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PDTPLR/PDTPLR/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark" width="80%">
+  <img src="https://raw.githubusercontent.com/PDTPLR/PDTPLR/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Animation Light" width="80%">
+</p>
 
 
