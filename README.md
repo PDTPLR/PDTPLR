@@ -1,10 +1,6 @@
-# PDTPL`R
+# PDTPL`R | Linux & Cybersecurity Specialist
 
-![Profile Banner](https://via.placeholder.com/1200x300/1a1a1a/ffffff?text=PDTPL%60R+-+Linux+%26+CyberSec)
-
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=1FA1F2&center=true&vCenter=true&width=400&lines=Linux+SysAdmin;CyberSec+Ninja;Network+Wizard)
-
-> Linux, кибербезопасность, сети
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=1FA1F2&center=true&vCenter=true&width=440&lines=Linux+SysAdmin;CyberSec+Enthusiast;Network+Engineer)
 
 ## Навыки
 
@@ -29,4 +25,5 @@
 ## Активность
 
 ![Snake Animation](https://raw.githubusercontent.com/PDTPLR/PDTPLR/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only) ![Snake Animation](https://raw.githubusercontent.com/PDTPLR/PDTPLR/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
