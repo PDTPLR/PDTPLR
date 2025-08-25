@@ -18,15 +18,4 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PDTPLR&show_icons=true&theme=dracula&hide_border=true&bg_color=1a1a1a&text_color=ffffff&icon_color=1FA1F2) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PDTPLR&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a1a&text_color=ffffff&icon_color=1FA1F2)
 
-## Достижения
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=PDTPLR&theme=dracula&margin-w=5&no-frame=true&column=6)
-
-## Активность
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PDTPLR/PDTPLR/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake Animation Dark" width="80%">
-  <img src="https://raw.githubusercontent.com/PDTPLR/PDTPLR/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake Animation Light" width="80%">
-</p>
-
 
